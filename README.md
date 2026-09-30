@@ -6,11 +6,11 @@ El script utiliza OpenCV para extraer los contornos del texto y cinemática inve
 
 ## 🎥 Demostración
 <!-- Reemplaza TU_ENLACE_DE_YOUTUBE por el ID de tu video -->
-[![Demostración del Proyecto](https://img.youtube.com/vi/TU_ENLACE_DE_YOUTUBE/0.jpg)](https://www.youtube.com/watch?v=TU_ENLACE_DE_YOUTUBE)
+[![Demostración del Proyecto](https://youtube.com/shorts/BWrsKaYS0Ik?si=BDTEaL4P9bpe0eT1)](https://youtube.com/shorts/BWrsKaYS0Ik?si=BDTEaL4P9bpe0eT1)
 
 ## 📸 Montaje Físico
 <!-- Reemplaza ruta_de_tu_imagen.jpg por el nombre de tu archivo de imagen -->
-![Montaje del Circuito](ruta_de_tu_imagen.jpg)
+![Montaje del Circuito](ACTIVIDAD 6/MONTAJE.jpeg)
 
 ---
 
