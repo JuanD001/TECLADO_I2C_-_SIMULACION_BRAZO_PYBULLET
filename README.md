@@ -286,7 +286,7 @@ Ambas placas funcionan con **MicroPython**.
 
 <!-- Reemplaza TU_ID_VIDEO_PARTE2 por el ID de tu video de YouTube (lo que va después de "v=" o de "/shorts/") -->
 
-[![Demostración Parte 2](https://img.youtube.com/vi/TU_ID_VIDEO_PARTE2/maxresdefault.jpg)](https://www.youtube.com/watch?v=TU_ID_VIDEO_PARTE2)
+[![Demostración Parte 2](IMG/MINIATURA2.png)](https://youtube.com/shorts/cFShk7gnTP0)
 
 > 💡 Haz clic en la imagen para ver el sistema en funcionamiento.
 
